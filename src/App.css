@@ -1,0 +1,28 @@
+.nice_btn {
+
+    background: #3a7999;
+    background-image: -webkit-linear-gradient(top, #3a7999, #2e5d7c);
+    background-image: -moz-linear-gradient(top, #3a7999, #2e5d7c);
+    background-image: -ms-linear-gradient(top, #3a7999, #2e5d7c);
+    background-image: -o-linear-gradient(top, #3a7999, #2e5d7c);
+    background-image: linear-gradient(to bottom, #3a7999, #2e5d7c);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.email_shw  {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin-top: 20px;
+  font-size: 40px;
+  color: #f96666;
+}
